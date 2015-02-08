@@ -373,9 +373,12 @@ You, perhaps, have not yet beheld this Monument, or at least not taken a survey 
             </q>
             <p>Then, to illustrate his description, He subjoyns this Draught, or <hi>Figure.</hi>
             </p>
-            <figure>
-               <p>Place this Piece in Folio 8.</p>
-            </figure>
+            <p>
+               <pb facs="tcp:48257:13"/>
+               <figure>
+                  <p>Place this Piece in Folio 8.</p>
+               </figure>
+            </p>
             <pb facs="tcp:48257:14"/>
             <p>
                <pb n="9" facs="tcp:48257:14"/>Whére <hi>A.</hi> denoteth the Perpendicular stones, called Corse<g ref="char:EOLhyphen"/>stones, weighing twelve Tunn, carrying in hight twenty four Foot, in breadth seven Foot, and in compass sixteen: and</p>
@@ -392,10 +395,16 @@ whereunto, on the inside, two others of less proportions. The Inner part of the 
                <p>Their Parallels, on the inside of the Trench, are four foot broad, and three thick; but so broken, their proportions in hight cannot be exactly measured.</p>
                <p>The stones, which make the Outward Circle, carry in breadth seven foot, in thickness 3 and ½, and in hight 15 and ½: each stone having two Tenons mortaised into the Architrave continuing upon them, throughout the whole circumference. For, these Archi<g ref="char:EOLhyphen"/>traves being joynted directly in the middle of each of the Perpendi<g ref="char:EOLhyphen"/>cular stones, that their weight might have an equal bearing; and up<g ref="char:EOLhyphen"/>on each side of the joynt a Tenon wrought (as remains yet to be seen): it may positively be concluded thereby, the Architrave con<g ref="char:EOLhyphen"/>tinued round about this Outward Circle.</p>
                <p>The smaller stones of the Inner Circle are two foot and ½ in breadth, 1. thick, and 6. high. These had no Architrave upon them, but were raised perpendicular, of a Pyramidal form.</p>
-               <figure/>
-               <figure>
+               <p>The Stones of the Greater Hexagon, 7. foot and ½ in breadth,
+<pb facs="tcp:48257:15"/>
+                  <figure/>
                   <pb facs="tcp:48257:16"/>
-               </figure>
+                  <figure>
+                     <pb facs="tcp:48257:16"/>
+                  </figure>
+                  <pb facs="tcp:48257:17"/>
+                  <pb n="11" facs="tcp:48257:17"/>
+three foot nine inches in thickness, and twenty foot in hight; each having one Tenon in the middle.</p>
                <p>The stones of the Inner Hexagon, 2. foot 6. inches broad, 1. foot and ½ thick, and eight foot high; in form Pyramidal, like those of the Inner Circle.</p>
                <p>The Architrave lying round about upon the Perpendicular stones of the Outward Circle, is three foot and ½ broad, two foot and ½ high or thick.</p>
                <p>The Architrave on the top of the great stones of the Outward Hexagon, 16. foot long, 3. foot 9. inches broad, 3. foot 4 inches high. This Architrave continuing onely from stone to stone, left betwixt every two and two, a void space, free to the air, unco<g ref="char:EOLhyphen"/>vered.</p>
